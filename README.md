@@ -8,7 +8,7 @@ HTML CSS Javascript, webpack
 
 ## Live Demo
 
-[link to To Do list](https://jenadiusnicholaus.github.io/To-Do-list/)
+[link to To Do list reviewa ](https://jenadiusnicholaus.github.io/To-Do-list/)
 
 ## Getting started
 
